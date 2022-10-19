@@ -33,6 +33,7 @@ rubiconproject.com, 24442, RESELLER, 0bfd66d529a55807
 
 #Selectmedia
 selectmedia.asia, 622a335ee5f2c605ce48fa36, DIRECT, e365c871a27c655d
+adform.com, 2919, RESELLER, 9f5210a2f0999e32
 spotxchange.com, 82810, RESELLER, 7842df1d2fe2db34
 spotx.tv, 82810, RESELLER, 7842df1d2fe2db34
 freewheel.tv, 144617, RESELLER, 74e8e47458f74754
