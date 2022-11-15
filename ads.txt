@@ -132,6 +132,7 @@ improvedigital.com,2050,RESELLER
 mintegral.com,10043,RESELLER,0aeed750c80d6423
 onetag.com,770a440e65869c2,RESELLER
 media.net,8CUZ1MK22,RESELLER
+nativo.com,5825,RESELLER,59521ca7cc5e9fee
 
 #bluTonic
 amxrtb.com, 105199428, RESELLER
