@@ -18,6 +18,78 @@ smartadserver.com,1772,RESELLER
 rubiconproject.com,23498,DIRECT,0bfd66d529a55807
 rubiconproject.com,23500,DIRECT,0bfd66d529a55807
 
+#Disroscale
+distroscale.com, 5883973024, DIRECT
+aps.amazon.com,510b2083-6681-4521-93bd-7d95b5afa83c,DIRECT
+openx.com, 557894883, DIRECT, 6a698e2ec38604c6
+Media.net, 8CUN4B97C, DIRECT
+33across.com, 0010b00002cGp2AAAS, RESELLER, bbea06d9c4d2853c
+appnexus.com, 7259, RESELLER,
+appnexus.com, 8458, RESELLER, f5ab79cb980f11d1
+Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
+beachfront.com, 14263, RESELLER, e2541279e8e2ca4d
+EMXDGT.com, 1759, RESELLER, 1e1d41537f7cad7f
+freewheel.tv, 1169361, RESELLER
+freewheel.tv, 1169825, RESELLER
+google.com, pub-3851171199385532, RESELLER, f08c47fec0942fa0
+google.com, pub-5028215366626589, RESELLER, f08c47fec0942fa0
+google.com, pub-7439041255533808, RESELLER, f08c47fec0942fa0
+gumgum.com, 14111, RESELLER, ffdef49475d318a9
+indexexchange.com, 191231, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 191512, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 197167, RESELLER, 50b1c356f2c5c8fc
+lemmatechnologies.com, 399, RESELLER, 7829010c5bebd1fb #LEMMA
+lijit.com, 342618, RESELLER, fafdf38b16bf6b2b
+lijit.com, 342618-eb, RESELLER, fafdf38b16bf6b2b
+lijit.com, 251676, RESELLER, fafdf38b16bf6b2b
+lijit.com, 251676-eb, RESELLER, fafdf38b16bf6b2b
+onetag.com, 5d49f482552c9b6, RESELLER
+openx.com, 537139075, RESELLER, 6a698e2ec38604c6
+openx.com, 540884769, RESELLER, 6a698e2ec38604c6
+openx.com, 540911068, RESELLER, 6a698e2ec38604c6
+openx.com, 552074241, RESELLER, 6a698e2ec38604c6
+openx.com, 537100188, RESELLER, 6a698e2ec38604c6
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+openx.com, 558415432, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158001, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161299, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162210, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158370, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159463, RESELLER, 5d62403b186f2ace
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159068, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162464, RESELLER, 5d62403b186f2ace
+rhythmone.com, 402505046, RESELLER, a670c89d4a324e47
+rhythmone.com, 4117835252, RESELLER, a670c89d4a324e47
+rhythmone.com, 3611299104, RESELLER
+rubiconproject.com, 16578, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 21916, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17046, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19396, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+sharethrough.com, 2vlnwPCI, RESELLER, d53b998a7bd4ecd2
+sonobi.com, 8bd87fc3e8, RESELLER, d1a215d9eb5aee9e
+sonobi.com, 6814d9ef4e, RESELLER, d1a215d9eb5aee9e
+sonobi.com, 83729e979b, RESELLER
+sovrn.com, 342618, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 251676, RESELLER, fafdf38b16bf6b2b
+spotx.tv,119003, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 119003, RESELLER,7842df1d2fe2db34
+telaria.com,2g9h1, RESELLER, 1a4e959a1b50034a
+telaria.com,5ew8d-zzcof, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 2g9h1, RESELLER, 1a4e959a1b50034a
+tremorhub.com,5ew8d-zzcof, RESELLER, 1a4e959a1b50034a
+triplelift.com, 11632, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 402505046, RESELLER
+video.unrulymedia.com, 4117835252, RESELLER
+yahoo.com, 59560, RESELLER
+yahoo.com, 59516, RESELLER, e1a5b5b6e3255540
+yahoo.com, 59076, RESELLER
+yahoo.com, 59027, RESELLER
+
 #Ad.Plus
 ad.plus, 2976666, DIRECT
 google.com, pub-4573231550355221, RESELLER, f08c47fec0942fa0
