@@ -11,15 +11,12 @@ google.com, pub-6410773352388001, DIRECT, f08c47fec0942fa0
 #slimcut telaria
 tremorhub.com,317nt-j9bxy,DIRECT,1a4e959a1b50034a
 telaria.com,317nt-j9bxy,DIRECT,1a4e959a1b50034a
-indexexchange.com,184088,RESELLER
 freeskreen.com,392,DIRECT,fe119a6acfd19070
 smartadserver.com,1772,RESELLER
-advertising.com,22118,RESELLER
-telaria.com,uqsl3-nbhre,RESELLER,1a4e959a1b50034a
-tremorhub.com,uqsl3-nbhre,RESELLER,1a4e959a1b50034a
 
 #Magnite DV+
-rubiconproject.com, 23498, DIRECT, 0bfd66d529a55807
+rubiconproject.com,23498,DIRECT,0bfd66d529a55807
+rubiconproject.com,23500,DIRECT,0bfd66d529a55807
 
 #Ad.Plus
 ad.plus, 2976666, DIRECT
