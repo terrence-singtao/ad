@@ -168,6 +168,10 @@ video.unrulymedia.com,1762841055,RESELLER
 google.com,PUB-9857612698505806,RESELLER
 Adipolosolutions.com,22703897216,DIRECT
 9dotsmedia.com, 1237, DIRECT
+adipolosolutions.com, 22819364708, DIRECT
+freewheel.tv, 1451842, DIRECT
+freewheel.tv, 1451858, DIRECT
+gannett.com, 22652786701, RESELLER
 
 ## YourBow lines ##
 
