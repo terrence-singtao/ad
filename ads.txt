@@ -161,7 +161,9 @@ aps.amazon.com, 2161fdc2-157c-4dc8-be6d-a5f74dacc2ef, RESELLER
 google.com,PUB-4903453974745530,RESELLER
 appnexus.com,12998,DIRECT
 adipolo.com,2976666,DIRECT
+adipolo.com, 22691085319, DIRECT
 themediagrid.com,9GKBJC,RESELLER
+themediagrid.com, LGT2OY, RESELLER, 35d5010d7789b49d
 appnexus.com,10490,RESELLER
 rubiconproject.com,24558,RESELLER
 video.unrulymedia.com,1762841055,RESELLER
