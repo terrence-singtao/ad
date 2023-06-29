@@ -96,6 +96,13 @@ pubmatic.com, 162464, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 24968, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 4117835252, RESELLER
 openx.com, 558415432, RESELLER, 6a698e2ec38604c6
+openx.com,557894883,RESELLER,6a698e2ec38604c6
+onetag.com,7e41763fae9f91e,RESELLER
+onetag.com,7e41763fae9f91e-OB,RESELLER
+pubmatic.com,163347,RESELLER,5d62403b186f2ace
+sonobi.com,e20b1679ef,RESELLER,d1a215d9eb5aee9e
+video.unrulymedia.com,611309574,RESELLER
+nextovp.com,4116026976,DIRECT
 
 #Ad.Plus
 ad.plus, 2976666, DIRECT
@@ -174,6 +181,12 @@ adipolosolutions.com, 22819364708, DIRECT
 freewheel.tv, 1451842, DIRECT
 freewheel.tv, 1451858, DIRECT
 gannett.com, 22652786701, RESELLER
+opamarketplace.com, 22819364708, DIRECT
+pmbmonetize.com, 22819364708, DIRECT
+9dotsmedia.com, 1240, DIRECT
+google.com, pub-5862389829718358, RESELLER, f08c47fec0942fa0
+google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0
+google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0
 
 ## YourBow lines ##
 
