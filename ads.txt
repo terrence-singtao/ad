@@ -409,8 +409,8 @@ conversantmedia.com, 100270, RESELLER, 03113cd04947736d #yieldmo
 lunamedia.io, 920a0ad09fc811ec82a719991b8924e5, RESELLER, 524ecb396915caaf #yieldmo
 
 #triplelift
-triplelift.com,13234, direct, 6c33edb13117fd86
-triplelift.com,13234-EB, direct, 6c33edb13117fd86
+triplelift.com,13234, RESELLER, 6c33edb13117fd86
+triplelift.com,13234-EB, RESELLER, 6c33edb13117fd86
 
 #TheMediaGrid
 themediagrid.com, SICRMX, RESELLER, 35d5010d7789b49d
