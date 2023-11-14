@@ -189,6 +189,9 @@ pmbmonetize.com, 22819364708, DIRECT
 google.com, pub-5862389829718358, RESELLER, f08c47fec0942fa0
 google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0
 google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0
+smartadline.com, 22866437000, DIRECT
+aps.amazon.com, d4004b5f-4fb6-4be2-82ae-0e36b8f52c12, RESELLER
+aps.amazon.com, 00ed17ab-4189-4639-9d5e-15acd40affde, RESELLER
 
 ## YourBow lines ##
 
