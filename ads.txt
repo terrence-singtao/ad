@@ -145,8 +145,6 @@ onetag.com, 74dcb2b8d077562, RESELLER
 supply.colossusssp.com, 365, RESELLER, 6c5b49d96ec1b458
 yahoo.com, 59106, RESELLER, e1a5b5b6e3255540
 yahoo.com, 58073, RESELLER, e1a5b5b6e3255540
-sovrn.com, 322507, RESELLER, fafdf38b16bf6b2b
-lijit.com, 322507, RESELLER, fafdf38b16bf6b2b
 lijit.com, 322507-eb, RESELLER, fafdf38b16bf6b2b
 rtbhouse.com, huJQwT0mUClpXEpxGoUN, DIRECT
 amxrtb.com, 105199498, RESELLER
@@ -166,7 +164,6 @@ appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9565, DIRECT, f5ab79cb980f11d1
 adtelligent.com, 310028, RESELLER
 triplelift.com, 11397, RESELLER, 6c33edb13117fd86
-conversantmedia.com, 100357, RESELLER, 03113cd04947736d
 aps.amazon.com, 2161fdc2-157c-4dc8-be6d-a5f74dacc2ef, RESELLER
 google.com,PUB-4903453974745530,RESELLER
 appnexus.com,12998,DIRECT
@@ -181,8 +178,6 @@ google.com,PUB-9857612698505806,RESELLER
 Adipolosolutions.com,22703897216,DIRECT
 9dotsmedia.com, 1237, DIRECT
 adipolosolutions.com, 22819364708, DIRECT
-freewheel.tv, 1451842, DIRECT
-freewheel.tv, 1451858, DIRECT
 gannett.com, 22652786701, RESELLER
 opamarketplace.com, 22819364708, DIRECT
 pmbmonetize.com, 22819364708, DIRECT
@@ -193,6 +188,23 @@ google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0
 smartadline.com, 22866437000, DIRECT
 aps.amazon.com, d4004b5f-4fb6-4be2-82ae-0e36b8f52c12, RESELLER
 aps.amazon.com, 00ed17ab-4189-4639-9d5e-15acd40affde, RESELLER
+google.com, pub-4219948434523868, RESELLER, f08c47fec0942fa0
+conversantmedia.com, 100357, RESELLER, 03113cd04947736d
+sovrn.com, 322507, RESELLER, fafdf38b16bf6b2b
+lijit.com, 322507, RESELLER, fafdf38b16bf6b2b
+themediagrid.com, 9GKBJC, RESELLER, 35d5010d7789b49d
+themediagrid.com, LGT2OY, RESELLER, 35d5010d7789b49d
+freewheel.tv, 1451842, DIRECT
+freewheel.tv, 1451858, DIRECT
+grouprvn.com, 59q7Ehu0M8, RESELLER
+bidfuse.com, bfu-0020-r, RESELLER
+amxrtb.com, 105199752, RESELLER
+omgstudios.com, 2301202412, RESELLER
+qortex.ai, 200025, RESELLER
+contextweb.com, 562422, RESELLER, 89ff185a4c4e857c
+playstream.media, 1922, RESELLER
+vidoomy.com, 9703086, RESELLER
+minutemedia.com, 01h8krwwdnbr, RESELLER
 
 ## YourBow lines ##
 
@@ -447,6 +459,7 @@ freewheel.tv,1577888,RESELLER
 
 #Criteo
 criteo.com, B-072217, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, 28ZN3I, DIRECT, 35d5010d7789b49d
 themediagrid.com, 28ZN3I, RESELLER, 35d5010d7789b49d
 
 # E-Planning
