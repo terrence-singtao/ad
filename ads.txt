@@ -482,3 +482,25 @@ supply.colossusssp.com, 601, RESELLER, 6c5b49d96ec1b458
 supply.colossusssp.com, 691, RESELLER, 6c5b49d96ec1b458
 appnexus.com, 10490, RESELLER, f5ab79cb980f11d1
 yieldmo.com, 3078438591206989879, RESELLER, #ortb
+
+#Rise YB
+risecodes.com, 657f0a6fcf5bf90001aea931, DIRECT
+pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
+xandr.com, 14082, RESELLER
+rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
+openx.com, 537140488, RESELLER, 6a698e2ec38604c6
+sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
+media.net, 8CUQ6928Q, RESELLER
+sonobi.com, 4a289cdd79, RESELLER, d1a215d9eb5aee9e
+video.unrulymedia.com, 335119963, RESELLER
+contextweb.com,562615,RESELLER,89ff185a4c4e857c
+onetag.com, 69f48c2160c8113, RESELLER
+33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
+yieldmo.com, 2754490424016969782, RESELLER
+themediagrid.com, 4DQHAP, RESELLER, 35d5010d7789b49d
+loopme.com, 11362, RESELLER, 6c8d5f95897a5a3b
+amxrtb.com, 105199691, RESELLER
+freewheel.tv, 1590601, RESELLER
+freewheel.tv, 1590606, RESELLER
+smartadserver.com, 4284, RESELLER
+adform.com, 3119, RESELLER, 9f5210a2f0999e32
