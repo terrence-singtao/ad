@@ -778,3 +778,7 @@ freewheel.tv, 1133073, RESELLER
 contextweb.com ,  562827,  RESELLER,  89ff185a4c4e857c
 pubmatic.com,  159668,  RESELLER,  5d62403b186f2ace
 lijit.com,  273644,  RESELLER,  fafdf38b16bf6b2b
+
+#Sonobi OB - YB
+sonobi.com, 98d262d0b3, RESELLER, d1a215d9eb5aee9e
+yahoo.com, 59875, RESELLER
