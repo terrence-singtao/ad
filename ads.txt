@@ -205,6 +205,17 @@ contextweb.com, 562422, RESELLER, 89ff185a4c4e857c
 playstream.media, 1922, RESELLER
 vidoomy.com, 9703086, RESELLER
 minutemedia.com, 01h8krwwdnbr, RESELLER
+aps.amazon.com,67344145-9455-4c99-9512-65af46a216b5,DIRECT 
+bidmatic.io,b-4bb0c,RESELLER 
+criteo.com,b-060555,RESELLER 
+pubmatic.com,161562,RESELLER 
+media.net,8cu816538,RESELLER 
+onetag.com,59a18369e249bfb,RESELLER 
+orangeclickmedia.com,ach5lxtq1pmgjoz4,RESELLER 
+adform.com,2656,RESELLER 
+themediagrid.com,6btdj7,RESELLER 
+themediagrid.com,hgn8tk,RESELLER 
+criteo.com,b-066057,RESELLER
 
 ## YourBow lines ##
 
