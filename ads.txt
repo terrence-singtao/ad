@@ -273,6 +273,13 @@ openx.com, 559680764, RESELLER
 contextweb.com,563311,RESELLER,89ff185a4c4e857c
 rubiconproject.com, 26184, RESELLER, 0bfd66d529a55807
 Pubmatic.com, 164692, RESELLER, 5d62403b186f2ace
+onetag.com, 7f3c08b1c2b4a0c, DIRECT
+onetag.com, 7f3c08b1c2b4a0c-OB, DIRECT
+appnexus.com, 13099, RESELLER
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+freewheel.tv, 20393, RESELLER
+freewheel.tv, 24377, RESELLER
 
 ## YourBow lines ##
 
