@@ -280,6 +280,12 @@ pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 freewheel.tv, 20393, RESELLER
 freewheel.tv, 24377, RESELLER
+vidgyor.com, 22222, DIRECT
+google.com, pub-3977122154505186, RESELLER, f08c47fec0942fa0
+incrementx.com, 100186, Direct, 8728b7e97e589da4
+adsolut.media, 1760, DIRECT
+google.com, pub-8584156348842922, DIRECT, f08c47fec0942fa0
+google.com, pub-8584156348842922, RESELLER, f08c47fec0942fa0
 
 ## YourBow lines ##
 
