@@ -216,6 +216,12 @@ adform.com,2656,RESELLER
 themediagrid.com,6btdj7,RESELLER 
 themediagrid.com,hgn8tk,RESELLER 
 criteo.com,b-066057,RESELLER
+xandr.com, 16546, RESELLER
+aniview.com, 58fcbed1073ef420086c9d08, RESELLER, 78b21b97965ec3f
+google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 26360, RESELLER, 0bfd66d529a55807
+pubmatic.com, 164798, RESELLER, 5d62403b186f2ace
+aps.amazon.com, ec4e8edf-c46b-44a1-bcab-17b3a4420b9a, RESELLER
 
 ## Playstream lines ##
 adsolut.in, 17535, DIRECT
