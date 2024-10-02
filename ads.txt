@@ -1105,3 +1105,7 @@ adyoulike.com, 1f301d3bcd723f5c372070bdfd142940, RESELLER
 adtarget.com.tr, 765564, RESELLER
 admatic.com.tr, adm-pub-2977111241, RESELLER, uufps1dh5stc6euk
 contextweb.com, 563449, RESELLER, 89ff185a4c4e857c
+
+#Pulsepoint - YB Updated 10/02/2024
+contextweb.com,563515, RESELLER,89ff185a4c4e857c
+rubiconproject.com, 26184, RESELLER, 0bfd66d529a55807
