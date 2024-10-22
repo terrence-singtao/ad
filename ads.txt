@@ -5,20 +5,12 @@ yourbow.com, 79, DIRECT
 #AdX
 google.com, pub-9463593148518414, DIRECT, f08c47fec0942fa0
 
-#slimcut telaria
-tremorhub.com,317nt-j9bxy,DIRECT,1a4e959a1b50034a
-telaria.com,317nt-j9bxy,DIRECT,1a4e959a1b50034a
-freeskreen.com,392,DIRECT,fe119a6acfd19070
-smartadserver.com,1772,RESELLER
-
-#Magnite DV+
-rubiconproject.com,23498,DIRECT,0bfd66d529a55807
-rubiconproject.com,23500,DIRECT,0bfd66d529a55807
-rubiconproject.com,23716,RESELLER,0bfd66d529a55807
-springserve.com,1680,RESELLER,a24eb641fc82e93d
-springserve.com,1893,RESELLER,a24eb641fc82e93d
+#Magnite
 springserve.com,1790,DIRECT,a24eb641fc82e93d
-springserve.com,1680,DIRECT,a24eb641fc82e93d
+springserve.com,1680,RESELLER,a24eb641fc82e93d
+rubiconproject.com,23716,RESELLER,0bfd66d529a55807
+rubiconproject.com,23498,DIRECT,0bfd66d529a55807
+rubiconproject.com,23500,RESELLER,0bfd66d529a55807
 
 #Disroscale
 distroscale.com, 5883973024, DIRECT
@@ -132,7 +124,7 @@ kargo.com,8824,RESELLER
 start.io,123111883,RESELLER
 pubmatic.com,164692,DIRECT,5d62403b186f2ace
 smartadserver.com,,DIRECT,060d053dcf45cbf3
-nativo.com,,RESELLER,59521ca7cc5e9fee
+nativo.com,5711,RESELLER,59521ca7cc5e9fee
 adingo.jp, 24315, DIRECT
 152media.info,152M694,RESELLER
 amxrtb.com, 105199329, DIRECT
@@ -146,6 +138,7 @@ incrementx.com, 100186, DIRECT, 8728b7e97e589da4
 adsolut.media, 1760, DIRECT
 google.com, pub-8584156348842922, DIRECT, f08c47fec0942fa0
 google.com, pub-8584156348842922, RESELLER, f08c47fec0942fa0
+connectad.io,455,RESELLER,85ac85a30c93b3e5
 
 #IncrementX
 incrementx.com, 60103, DIRECT, 8728b7e97e589da4
@@ -488,7 +481,7 @@ indexexchange.com, 192131, RESELLER, 50b1c356f2c5c8fc
 #InMobi
 inmobi.com, bf5dfc851e2b4a7da80631aa696d9d3d, RESELLER
 
-#Magnite
+#Magnite (YB)
 rubiconproject.com, 19286, RESELLER, 0bfd66d529a55807
 
 #Media.net
