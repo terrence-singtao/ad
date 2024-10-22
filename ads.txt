@@ -5,9 +5,6 @@ yourbow.com, 79, DIRECT
 #AdX
 google.com, pub-9463593148518414, DIRECT, f08c47fec0942fa0
 
-#AdSense
-google.com, pub-6410773352388001, DIRECT, f08c47fec0942fa0
-
 #slimcut telaria
 tremorhub.com,317nt-j9bxy,DIRECT,1a4e959a1b50034a
 telaria.com,317nt-j9bxy,DIRECT,1a4e959a1b50034a
@@ -549,31 +546,8 @@ lijit.com, 251676, RESELLER, fafdf38b16bf6b2b #SOVRN
 lijit.com, 251676-eb, RESELLER, fafdf38b16bf6b2b #SOVRN
 appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
 
-#Unruly
-rhythmone.com, 945699771, RESELLER, a670c89d4a324e47
-video.unrulymedia.com, 945699771, RESELLER
-rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
-pubmatic.com, 159277, RESELLER, 5d62403b186f2ace
-openx.com, 543878511, RESELLER, 6a698e2ec38604c6
-
 #Xandr
 appnexus.com, 8458, RESELLER, f5ab79cb980f11d1
-
-#YieldMo
-yieldmo.com, 2350677034469892763, RESELLER #ebda
-contextweb.com, 561118, RESELLER, 89ff185a4c4e857c #yieldmo
-appnexus.com, 7911, RESELLER, f5ab79cb980f11d1 #yieldmo
-rhythmone.com, 3463482822,RESELLER,a670c89d4a324e47 #yieldmo
-video.unrulymedia.com, 3463482822, RESELLER #yieldmo
-rubiconproject.com, 17070, RESELLER, 0bfd66d529a55807 #yieldmo
-pubmatic.com, 160648, RESELLER, 5d62403b186f2ace #yieldmo
-admanmedia.com, 746, RESELLER #yieldmo
-conversantmedia.com, 100270, RESELLER, 03113cd04947736d #yieldmo
-lunamedia.io, 920a0ad09fc811ec82a719991b8924e5, RESELLER, 524ecb396915caaf #yieldmo
-
-#triplelift
-triplelift.com,13234, RESELLER, 6c33edb13117fd86
-triplelift.com,13234-EB, RESELLER, 6c33edb13117fd86
 
 #TheMediaGrid
 themediagrid.com, SICRMX, RESELLER, 35d5010d7789b49d
@@ -697,7 +671,6 @@ tremorhub.com, cpu32-92xut, RESELLER, 1a4e959a1b50034a
 google.com, pub-8221793852898543, RESELLER, f08c47fec0942fa0
 spotx.tv, 202100, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 202100, RESELLER, 7842df1d2fe2db34
-sunmedia.tv, 455be357-ad46-4f10-8872-701656980003, DIRECT, 24794F6
 improvedigital.com, 2048, RESELLER
 rubiconproject.com, 17210, DIRECT, 0bfd66d529a55807
 aps.amazon.com, 93aec77c-f6d2-45bd-affc-a85ab5a72683, DIRECT
