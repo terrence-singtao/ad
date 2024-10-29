@@ -5,6 +5,23 @@ yourbow.com, 79, DIRECT
 #AdX
 google.com, pub-9463593148518414, DIRECT, f08c47fec0942fa0
 
+#Seedtag
+seedtag.com,67210475ef343a0007144ea3,DIRECT
+xandr.com,4009,DIRECT,f5ab79cb980f11d1
+smartadserver.com,3050,DIRECT
+rubiconproject.com,17280,DIRECT,0bfd66d529a55807
+pubmatic.com,157743,DIRECT,5d62403b186f2ace
+openx.com,558758631,RESELLER,6a698e2ec38604c6
+lijit.com,397546,DIRECT,fafdf38b16bf6b2b
+onetag.com,75601b04186d260,DIRECT
+indexexchange.com,191730,RESELLER,50b1c356f2c5c8fc
+sharethrough.com,AXS5NfBr,DIRECT,d53b998a7bd4ecd2
+loopme.com,11712,RESELLER,6c8d5f95897a5a3b
+xandr.com,13799,RESELLER
+lijit.com,400766,RESELLER,fafdf38b16bf6b2b
+freewheel.tv,1137745,RESELLER
+pubmatic.com,158723,RESELLER,5d62403b186f2ace
+
 #Magnite
 springserve.com,1790,DIRECT,a24eb641fc82e93d
 springserve.com,1680,RESELLER,a24eb641fc82e93d
