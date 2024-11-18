@@ -891,7 +891,8 @@ contextweb.com, 563449, RESELLER, 89ff185a4c4e857c
 contextweb.com,563515, RESELLER,89ff185a4c4e857c
 rubiconproject.com, 26184, RESELLER, 0bfd66d529a55807
 
-######### 
+#########
+adapex.io,s4563,DIRECT 
 MANAGERDOMAIN=adapex.io
 
 #banner
