@@ -4,6 +4,7 @@ yourbow.com, 79, DIRECT
 
 #AdX
 google.com, pub-9463593148518414, DIRECT, f08c47fec0942fa0
+google.com, ca-video-pub-4968145218643279, DIRECT, f08c47fec0942fa0
 
 #Seedtag
 seedtag.com,67210475ef343a0007144ea3,DIRECT
