@@ -645,7 +645,7 @@ sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
 contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
 
 #Fluct
-#adingo.jp, 24384, RESELLER
+adingo.jp, 24384, RESELLER
 
 #IndexExchange
 indexexchange.com, 192131, RESELLER, 50b1c356f2c5c8fc
