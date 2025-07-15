@@ -440,6 +440,29 @@ google.com,pub-5949539234449438,DIRECT,f08c47fec0942fa0
 google.com,pub-4419817472916862,DIRECT,f08c47fec0942fa0
 urekamedia.com,e411dad9e4766cfa23c4cd27,DIRECT
 webtvasia.com,21715635079,DIRECT
+aps.amazon.com, d4004b5f-4fb6-4be2-82ae-0e36b8f52c12, DIRECT
+appnexus.com,16912,DIRECT, f5ab79cb980f11d1
+appnexus.com,16912,RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 27316, DIRECT, 0bfd66d529a55807
+google.com, pub-2948748301051743, DIRECT, f08c47fec0942fa0
+google.com, pub-8031510275953037, DIRECT, f08c47fec0942fa0
+incrementx.com, 60513, DIRECT, 8728b7e97e589da4
+pubmatic.com, 161652, DIRECT, 5d62403b186f2ace
+inmobi.com, 64390d9c0d0541bc9b06ab42a124b396, DIRECT, 83e75a7ae333ca9d
+datawrkz.com, 2509, DIRECT
+google.com, pub-8856559311549217, RESELLER, f08c47fec0942fa0
+thegermanemedia.com,407, RESELLER, 6716225838534735
+google.com, pub-6716225838534735, RESELLER, f08c47fec0942fa0
+incrementx.com, 50006, RESELLER, 8728b7e97e589da4
+streamlyn.com, bsrvptr20157, RESELLER
+google.com, pub-1714061154748628, RESELLER, f08c47fec0942fa0
+vidgyor.com, 30000, RESELLER
+rtbdemand.com, 22849693057, RESELLER
+google.com, pub-3872674820285626, RESELLER, f08c47fec0942fa0
+openx.com, 561447216, RESELLER, 6a698e2ec38604c6
+whitemediasolutions.com, 1999, RESELLER
+adsolut.in, 16436, RESELLER
+playstream.media, 1566, RESELLER
 
 ## YourBow lines ##
 
