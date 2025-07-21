@@ -906,40 +906,6 @@ adtarget.com.tr, 765564, RESELLER
 admatic.com.tr, adm-pub-2977111241, RESELLER, uufps1dh5stc6euk
 contextweb.com, 563449, RESELLER, 89ff185a4c4e857c
 
-#Pulsepoint - YB Updated 10/02/2024
-contextweb.com,563515, RESELLER,89ff185a4c4e857c
-rubiconproject.com, 26184, RESELLER, 0bfd66d529a55807
-
-#Kuantyx
-kntxy.com, 62683, DIRECT
-amxrtb.com, 105199840, DIRECT
-lijit.com, 542485, DIRECT, fafdf38b16bf6b2b
-lijit.com, 542485-eb, DIRECT, fafdf38b16bf6b2b
-onetag.com, 92ca3ee66889ee2, DIRECT
-152media.info,152M1053,RESELLER
-pubmatic.com, 161026, RESELLER, 5d62403b186f2ace
-google.com, pub-3960095709930134, RESELLER, f08c47fec0942fa0
-video.unrulymedia.com, 297618916, RESELLER
-amxrtb.com, 105199830, DIRECT
-eskimi.com, 2020000792, RESELLER
-onetag.com, 7a07370227fc000, RESELLER
-betweendigital.com, 46536, DIRECT
-onetag.com, 5d1628750185ace, RESELLER
-pixfuture.com, 9977, DIRECT
-sharethrough.com, 62beb9db, DIRECT, d53b998a7bd4ecd2
-media.net, 8CUIUMTP7, DIRECT
-themediagrid.com, QDC97I, DIRECT, 35d5010d7789b49d
-onetag.com, 79c9089f60042c0, DIRECT
-pubmatic.com, 158127, RESELLER, 5d62403b186f2ace
-inmobi.com, 257651565cd44fc9a272f26e6975ee35, DIRECT, 83e75a7ae333ca9d
-minutemedia.com, 01jsf5my8xgr, DIRECT
-pubmatic.com, 166733, RESELLER, 5d62403b186f2ace
-triplelift.com, 6030, RESELLER, 6c33edb13117fd86
-pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
-lijit.com, 273644, RESELLER, fafdf38b16bf6b2b
-inmobi.com, 791b84bdd791470faa8dca5f04e6a83b, RESELLER, 83e75a7ae333ca9d
-video.unrulymedia.com, 146647607, RESELLER
-
 #AdPone
 adpone.com, 0764e1b55cf9992e246a, RESELLER
 betweendigital.com, 42666, RESELLER
