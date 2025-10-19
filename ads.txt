@@ -501,6 +501,14 @@ openx.com, 561447216, RESELLER, 6a698e2ec38604c6
 whitemediasolutions.com, 1999, RESELLER
 adsolut.in, 16436, RESELLER
 playstream.media, 1566, RESELLER
+aps.amazon.com, d4004b5f-4fb6-4be2-82ae-0e36b8f52c12, DIRECT #dr
+google.com, pub-2080498907145222, DIRECT, f08c47fec0942fa0
+google.com, pub-1611250994338939, DIRECT, f08c47fec0942fa0
+google.com, pub-8136841300154097, DIRECT, f08c47fec0942fa0
+datawrkz.com, 2611, DIRECT
+mediaeyes.vn, e411dad9e4766cfa23c4cd27, DIRECT
+google.com, pub-2790861128798104, DIRECT, f08c47fec0942fa0
+google.com, pub-7110554935250005, DIRECT, f08c47fec0942fa0
 
 ## YourBow lines ##
 
