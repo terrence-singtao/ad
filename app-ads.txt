@@ -508,6 +508,15 @@ datawrkz.com, 2611, DIRECT
 mediaeyes.vn, e411dad9e4766cfa23c4cd27, DIRECT
 google.com, pub-2790861128798104, DIRECT, f08c47fec0942fa0
 google.com, pub-7110554935250005, DIRECT, f08c47fec0942fa0
+justbaat.com, 202510273323, DIRECT
+google.com, pub-3715562101512710, RESELLER, f08c47fec0942fa0
+cue7ven.com,783517,RESELLER
+appnexus.com, 8233, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 13510, RESELLER, 0bfd66d529a55807
+richaudience.com, XoB4ac2obW, RESELLER
+google.com, pub-9089347799132820, DIRECT, f08c47fec0942fa0
+adipolo.com, 22862575716, DIRECT
+adipolosolutions.com, 22862575716, DIRECT
 
 ## YourBow lines ##
 
@@ -650,8 +659,6 @@ triplelift.com,8446,RESELLER,6c33edb13117fd86
 pubmatic.com,163389,RESELLER,5d62403b186f2ace
 inmobi.com,09f53411034d4d608cd6230490d46fff,RESELLER,83e75a7ae333ca9d
 axonix.com,56222,RESELLER
-rubiconproject.com,13510,RESELLER,0bfd66d529a55807
-appnexus.com,8233,RESELLER,f5ab79cb980f11d1
 advertising.com,7574,RESELLER
 richaudience.com,25BiP9IMgN,RESELLER
 admanmedia.com,7adaec45,RESELLER
