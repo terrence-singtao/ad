@@ -1078,6 +1078,14 @@ teads.tv, 22040, RESELLER, 15a9c44f6d26cbe1
 #Nexxen
 video.unrulymedia.com, 804071081, RESELLER
 
+#Ogury HB
+ogury.com, 9790a3b0-6e08-4ee4-93e4-a4be64408bd7, RESELLER
+rubiconproject.com, 25198, RESELLER, 0bfd66d529a55807
+pubmatic.com, 163238, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4537, RESELLER, 060d053dcf45cbf3
+video.unrulymedia.com, 533898005, RESELLER
+thebrave.io, 1234746, RESELLER, c25b2154543746ac
+
 ##
 ## AdPushup
 adpushup.com, 0407f5b6f83bdc114b7aa79af86fd2af, DIRECT, b0b8ff8485794fdd
