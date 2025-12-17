@@ -288,6 +288,26 @@ appnexus.com, 10040, RESELLER, f5ab79cb980f11d1
 sharethrough.com, TZ1ahFV8, RESELLER, d53b998a7bd4ecd2
 lijit.com, 346012-eb, DIRECT, fafdf38b16bf6b2b
 adform.com, 3027, RESELLER
+voisetech.com, 1295, DIRECT, 9009ef0379162448
+google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
+pubmatic.com, 166206, RESELLER, 5d62403b186f2ace
+seedtag.com, 69317790386e610007d2ef2b, RESELLER
+media.net, 8CUM3V9L5,RESELLER
+media.net, 8CUMKU8NR, RESELLER
+smilewanted.com, 5548, RESELLER
+vdo.ai, 4928, DIRECT
+atlas5.co, 4928, DIRECT
+walletcircle.co, 4928, DIRECT
+google.com, pub-7094677798399606, RESELLER, f08c47fec0942fa0
+google.com, pub-2403018226404213, RESELLER, f08c47fec0942fa0
+adipolosolutions.com, 22696520452, DIRECT
+pmbmonetize.com, 22696520452, DIRECT
+opamarketplace.com, 22696520452, DIRECT
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0
+google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0
+google.com, pub-6151720204273327, RESELLER, f08c47fec0942fa0
+aps.amazon.com,b3d50ad3-eca1-4091-be72-de4a8bc67a3d,DIRECT
 
 ## Vidoomy lines ##
 vidoomy.com, 100271, DIRECT
@@ -336,8 +356,6 @@ pmbmonetize.com, 90643844, DIRECT
 opamarketplace.com, 90643844, DIRECT
 smartadline.com, 90643844, DIRECT
 google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
-google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
-google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0
 google.com, pub-6804276076764268, RESELLER, f08c47fec0942fa0
 loopme.com, 13984, RESELLER, 6c8d5f95897a5a3b
 smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
@@ -1213,7 +1231,6 @@ richaudience.com, zwnt2gmd24, RESELLER
 inmobi.com, 30f3830cfef249a3ad46ee1a0bba7af3, RESELLER, 83e75a7ae333ca9d
 adipolo.com, 22861843909, DIRECT
 opamarketplace.com, 22861843909, DIRECT
-google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0
 adipolosolutions.com, 22861843909, DIRECT
 pmbmonetize.com, 22861843909, DIRECT
 openx.com, 541073624, RESELLER, 6a698e2ec38604c6
