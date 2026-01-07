@@ -195,6 +195,7 @@ video.unrulymedia.com, 811851643, RESELLER
 crystall.io, 312881, DIRECT
 
 #IncrementX
+incrementx.com, 4424, DIRECT
 incrementx.com, 60103, DIRECT, 8728b7e97e589da4
 google.com, pub-3977122154505186, RESELLER, f08c47fec0942fa0
 pubmatic.com, 163277, RESELLER, 5d62403b186f2ace
