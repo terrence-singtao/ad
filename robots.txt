@@ -1,0 +1,99 @@
+# ========================
+# 1. Default Rules (All Bots)
+# ========================
+User-agent: *
+Allow: /
+Crawl-delay: 60  # General delay for most bots
+
+# ========================
+# 2. Google Ad Manager (FASTER Crawl)
+# ========================
+User-agent: Mediapartners-Google
+Allow: /
+Crawl-delay: 2  # Faster crawl (2s delay vs. default 60s)
+
+# ========================
+# 2.5. Google, facebook Bots
+# ========================
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 2  # General delay for most bots
+
+User-agent: Googlebot-news
+Allow: /
+Crawl-delay: 2  # General delay for most bots
+
+User-agent: FacebookBot
+Allow: /
+Crawl-delay: 2  # General delay for most bots
+
+User-agent: facebookexternalhit
+Allow: /
+Crawl-delay: 2  # General delay for most bots
+
+User-agent: Facebot
+Allow: /
+Crawl-delay: 2  # General delay for most bots
+
+# ========================
+# 2.6. Ahrefs Bots
+# ========================
+User-agent: AhrefsBot
+Allow: /
+Crawl-delay: 5
+
+# ========================
+# 3. Other Google & Bing Bots (Standard Crawl)
+# ========================
+User-agent: bingbot
+User-agent: msnbot
+User-agent: slurp
+User-agent: yandex
+User-agent: baiduspider
+User-agent: alexabot
+User-agent: ia_archiver
+Allow: /
+Crawl-delay: 300  # slow than default
+
+# ========================
+# 4. Blocked Bots (AI, Scrapers, Spam)
+# ========================
+#User-agent: GPTBot
+#User-agent: anthropic-ai
+#User-agent: Claude-Web
+#User-agent: CCbot
+#User-agent: PiplBot
+#User-agent: Google-Extended
+#User-agent: Sosospider
+#User-agent: Amazonbot
+#Disallow: /
+
+# ========================
+# 5. Disallowed Paths (Security & SEO)
+# ========================
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/upgrade/
+Disallow: /wp-content/wflogs/
+Disallow: /wp-content/rsspi-log/
+Disallow: /wp-content/languages/
+Disallow: /dushi/
+Disallow: /dushi-single/
+Disallow: /deals/blackfriday/
+Disallow: /deals/singclub/
+Disallow: /readme.html
+Disallow: /refer/
+Disallow: /?s=
+Disallow: /search/
+Disallow: /daily_
+
+# ========================
+# 6. Sitemaps
+# ========================
+Sitemap: https://www.singtao.ca/gen-sitemap/post/today/
+Sitemap: https://www.singtao.ca/gen-sitemap/rtnews/today/
+Sitemap: https://www.singtao.ca/toronto-weather/sitemap.xml
+Sitemap: https://www.singtao.ca/vancouver-weather/sitemap.xml
+Sitemap: https://www.singtao.ca/calgary-weather/sitemap.xml
+Sitemap: https://www.singtao.ca/currency-exchange/sitemap.xml

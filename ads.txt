@@ -538,6 +538,8 @@ adipolo.com, 22862575716, DIRECT
 adipolosolutions.com, 22862575716, DIRECT
 
 ## YourBow lines ##
+#GoogleAdX
+google.com, pub-3605257360853185, RESELLER, f08c47fec0942fa0
 
 #AdaptMX
 amxrtb.com, 105199427, RESELLER
@@ -741,6 +743,15 @@ contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
 #Fluct
 adingo.jp, 24384, RESELLER
 
+#Gumgum
+gumgum.com, 12907, DIRECT, ffdef49475d318a9
+rubiconproject.com, 23434, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157897, RESELLER, 5d62403b186f2ace
+appnexus.com, 2758, RESELLER, f5ab79cb980f11d1
+contextweb.com, 558355, RESELLER, 89ff185a4c4e857c
+openx.com, 537149485, RESELLER, 6a698e2ec38604c6
+google.com, pub-3848273848634341, RESELLER, f08c47fec0942fa0
+
 #IndexExchange
 indexexchange.com, 192131, RESELLER, 50b1c356f2c5c8fc
 
@@ -773,6 +784,19 @@ contextweb.com, 558638, RESELLER, 89ff185a4c4e857c
 #Media.net
 media.net, 8CUM3T205, RESELLER
 media.net, 8CUN4B97C, RESELLER
+media.net, 8CUJ8GUQF, DIRECT #prebid
+media.net, 8CUFH1GPH, DIRECT #ob
+pubmatic.com, 159463, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 19396, RESELLER, 0bfd66d529a55807
+openx.com, 537100188, RESELLER, 6a698e2ec38604c6
+trustedstack.com, TS214MR0W, DIRECT
+media.net, 8CU934878, DIRECT
+onetag.com, 5d49f482552c9b6, RESELLER
+rhythmone.com, 3611299104, RESELLER, a670c89d4a324e47
+sharethrough.com, koRtppYA, RESELLER, d53b998a7bd4ecd2
+contextweb.com,563079,RESELLER,89ff185a4c4e857c
+loopme.com, 11498, RESELLER, 6c8d5f95897a5a3b
+sonobi.com, b43e9530e7, RESELLER, d1a215d9eb5aee9e
 
 #OneTag
 onetag.com, 74d5b14b9d4d148, RESELLER
@@ -783,6 +807,15 @@ pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 
 #OpenX
 openx.com, 540447724, RESELLER, 6a698e2ec38604c6
+
+#Primis
+primis.tech, 27975, DIRECT
+rubiconproject.com, 20130, RESELLER, 0bfd66d529a55807
+freewheel.tv, 19129, RESELLER
+freewheel.tv, 19133, RESELLER
+triplelift.com, 8210, RESELLER, 6c33edb13117fd86
+rubiconproject.com, 10278, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 776418614052335749, RESELLER
 
 #PubMatic
 pubmatic.com, 157527, RESELLER, 5d62403b186f2ace
@@ -833,6 +866,14 @@ appnexus.com, 8458, RESELLER, f5ab79cb980f11d1
 
 #TheMediaGrid
 themediagrid.com, SICRMX, RESELLER, 35d5010d7789b49d
+
+#Triplelift
+triplelift.com, 5579, DIRECT, 6c33edb13117fd86
+triplelift.com, 11420, DIRECT, 6c33edb13117fd86
+triplelift.com, 11419, DIRECT, 6c33edb13117fd86
+triplelift.com, 5579-EB, DIRECT, 6c33edb13117fd86
+triplelift.com, 11419-EB, DIRECT, 6c33edb13117fd86
+triplelift.com, 11420-EB, DIRECT, 6c33edb13117fd86
 
 #MinuteMedia-TAM
 minutemedia.com, 01hdm3b0bjke, RESELLER
@@ -904,18 +945,6 @@ freewheel.tv, 1590601, RESELLER
 freewheel.tv, 1590606, RESELLER
 smartadserver.com, 4284, RESELLER
 adform.com, 3119, RESELLER, 9f5210a2f0999e32
-
-#MediaNet TAM
-media.net, 8CU934878, DIRECT
-pubmatic.com, 159463, RESELLER, 5d62403b186f2ace
-openx.com, 537100188, RESELLER, 6a698e2ec38604c6
-rubiconproject.com, 19396, RESELLER, 0bfd66d529a55807
-onetag.com, 5d49f482552c9b6, RESELLER
-rhythmone.com, 3611299104, RESELLER, a670c89d4a324e47
-sharethrough.com, koRtppYA, RESELLER, d53b998a7bd4ecd2
-contextweb.com,563079,RESELLER,89ff185a4c4e857c
-loopme.com, 11498, RESELLER, 6c8d5f95897a5a3b
-sonobi.com, b43e9530e7, RESELLER, d1a215d9eb5aee9e
 
 #Sonobi OB - YB
 sonobi.com, 98d262d0b3, RESELLER, d1a215d9eb5aee9e
@@ -1414,7 +1443,7 @@ video.unrulymedia.com, 4220119312, RESELLER
 amxrtb.com, 105199526, RESELLER
 rubiconproject.com, 24022, RESELLER, 0bfd66d529a55807
 pmc.com, 1243087, RESELLER, 8dd52f825890bb44
-rubiconproject.com, 10278, RESELLER, 0bfd66d529a55807
+
 jfacassoc.com, 1622, RESELLER
 xandr.com, 14674, RESELLER
 yieldmo.com, 2898690995346416534, RESELLER
