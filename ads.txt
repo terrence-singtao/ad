@@ -697,6 +697,8 @@ richaudience.com, XoB4ac2obW, RESELLER
 google.com, pub-9089347799132820, DIRECT, f08c47fec0942fa0
 adipolo.com, 22862575716, DIRECT
 adipolosolutions.com, 22862575716, DIRECT
+appnexus.com, 2358, DIRECT, f5ab79cb980f11d1
+appnexus.com, 2685833, DIRECT, f5ab79cb980f11d1
 
 ## YourBow lines ##
 #GoogleAdX
