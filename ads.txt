@@ -711,6 +711,80 @@ google.com, 23174336345, RESELLER, f08c47fec0942fa0
 google.com, 23173019831, DIRECT, f08c47fec0942fa0
 adopx.com, 23173019831, DIRECT
 
+## Vidcrunch lines
+152media.info, 152M33, RESELLER
+33across.com, 0010b00002MptHCAAZ, DIRECT, bbea06d9c4d2853c
+carliba.io, 184082, RESELLER
+media.net, 8CU377B3G, RESELLER
+xandr.com, 16546, RESELLER, f5ab79cb980f11d1
+adingo.jp, 32948, RESELLER
+adyoulike.com, a40a86ea548b729fc92e98b618536ba1, RESELLER, 4ad745ead2958bf7
+adyoulike.com, bcf6c423bc90ec180005086dd9935a1b, RESELLER, 4ad745ead2958bf7
+aniview.com, 5b59760c073ef46a2e6b8f13, DIRECT, 78b21b97965ec3f8
+appnexus.com, 11701, RESELLER, f5ab79cb980f11d1
+appnexus.com, 17019, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3920, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7582, RESELLER, f5ab79cb980f11d1
+aps.amazon.com, ec4e8edf-c46b-44a1-bcab-17b3a4420b9a, RESELLER
+conversantmedia.com, 100693, RESELLER, 03113cd04947736d
+copper6.com, 766174, RESELLER
+flashb.id, a7fb3d32-bd76-5062-b4f0-e083a9a78123, DIRECT
+flashb.id, bddcfab3-7783-5075-b410-a33bb980b8b2, DIRECT
+google.com, pub-4104675640276663, RESELLER, f08c47fec0942fa0
+google.com, pub-5372661266361105, RESELLER, f08c47fec0942fa0
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
+google.com, pub-8897412533447051, RESELLER, f08c47fec0942fa0
+improvedigital.com, 2154, RESELLER
+improvedigital.com, 2556, RESELLER
+indexexchange.com, 189876, RESELLER, 50b1c356f2c5c8fc
+inmobi.com, 541fff38bbaf4047be082d9ca66242fa, RESELLER, 83e75a7ae333ca9d
+insticator.com, a3c8e300-1d65-419e-af47-1c3afdb522d7, DIRECT, b3511ffcafb23a32
+media.net, 8CUJ8C82U, RESELLER
+ogury.com, f93dbbc2-8c8e-455d-b2fc-935fdf93c958, DIRECT
+onetag.com, 5cca11704094eb8, RESELLER
+openx.com, 540233537, RESELLER, 6a698e2ec38604c6
+openx.com, 559913615, RESELLER, 6a698e2ec38604c6
+openx.com, 563905670, DIRECT, 6a698e2ec38604c6
+optimovid.com, 22655109307, RESELLER
+pubmatic.com, 165854, RESELLER, 5d62403b186f2ace
+pubnative.net, 1007449, RESELLER, d641df8625486a7b
+pubx.ai, 168198910466065, DIRECT
+richaudience.com, ns9qrKJLKD, DIRECT
+risecodes.com, 65b9125633dab2000102902c, RESELLER
+robust-apps.com, 306, DIRECT
+rubiconproject.com, 11106, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 15278, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 24030, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 26360, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 27963, RESELLER, 0bfd66d529a55807
+seedtag.com, 5e95b6c23e75750600682736, DIRECT
+seedtag.com, 67feadce79a77d0007b698a5, RESELLER
+seedtag.com, 69c67c2baed8090007bbc9c4, DIRECT
+sharethrough.com, 3050, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 4342, RESELLER
+smartadserver.com, 5086, RESELLER, 060d053dcf45cbf3
+sonobi.com, 79e197cdbc, RESELLER, d1a215d9eb5aee9e
+sonobi.com, a0ece019ba, RESELLER, d1a215d9eb5aee9e
+themediagrid.com, DQ6AMB, RESELLER, 35d5010d7789b49d
+themediagrid.com, GODNC4, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, NEJFKT, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, QUZDR9, RESELLER, 35d5010d7789b49d
+themediagrid.com, VM75KS, DIRECT, 35d5010d7789b49d
+triplelift.com, 12345, RESELLER
+triplelift.com, 12738, RESELLER, 6c33edb13117fd86
+triplelift.com, 13982, DIRECT, 6c33edb13117fd86
+triplelift.com, 13982-EB, DIRECT, 6c33edb13117fd86
+triplelift.com, 6998, RESELLER, 6c33edb13117fd86
+triplelift.com, 7660, DIRECT, 6c33edb13117fd86
+video.unrulymedia.com, 273421059, RESELLER
+video.unrulymedia.com, 449519254, RESELLER
+video.unrulymedia.com, 595379967, RESELLER
+video.unrulymedia.com, 876890970, RESELLER
+xandr.com, 17019, RESELLER, f5ab79cb980f11d1
+yahoo.com, 58909, DIRECT
+zoklent.com, zok-1008, RESELLER
+
 ## YourBow lines ##
 #GoogleAdX
 
@@ -1516,7 +1590,6 @@ smartadserver.com, 3686, RESELLER
 smartadserver.com, 3686-OB, RESELLER, 060d053dcf45cbf3
 video.unrulymedia.com, 404985931, RESELLER
 rubiconproject.com, 20100, RESELLER, 0bfd66d529a55807
-aniview.com,5b59760c073ef46a2e6b8f13, DIRECT, 78b21b97965ec3f8
 smilewanted.com, 5866, RESELLER
 google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
 auth.inc, 0000014, RESELLER
