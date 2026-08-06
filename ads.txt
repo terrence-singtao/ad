@@ -634,8 +634,6 @@ pubmatic.com, 162557, RESELLER, 5d62403b186f2ace
 google.com, pub-3052636440995168, DIRECT, f08c47fec0942fa0
 google.com, pub-6553770977773293, DIRECT, f08c47fec0942fa0
 google.com, pub-6553770977773293, RESELLER, f08c47fec0942fa0
-google.com, 23174336345, RESELLER, f08c47fec0942fa0
-google.com, 23173019831, DIRECT, f08c47fec0942fa0
 adopx.com, 23173019831, DIRECT
 pmbmonetize.com, 23173019831, DIRECT
 google.com, pub-5199481771551613, DIRECT, f08c47fec0942fa0
@@ -1138,6 +1136,17 @@ ogury.com, 9790a3b0-6e08-4ee4-93e4-a4be64408bd7, RESELLER
 smartadserver.com, 4537, RESELLER, 060d053dcf45cbf3
 video.unrulymedia.com, 533898005, RESELLER
 thebrave.io, 1234746, RESELLER, c25b2154543746ac
+
+#PanxoAI
+panxo.ai, 763797, DIRECT
+bidgx.com, bEECgB033j70Y4cR, DIRECT
+kntxy.com, 110637, DIRECT
+rubiconproject.com, 27034, RESELLER, 0bfd66d529a55807
+themediagrid.com, FNG4LA, RESELLER, 35d5010d7789b49d
+pubmatic.com, 166733, RESELLER, 5d62403b186f2ace
+smartadserver.com, 5397, RESELLER, 060d053dcf45cbf3
+xandr.com, 17781, RESELLER
+triplelift.com, 14737, RESELLER, 6c33edb13117fd86
 
 ##
 ## AdPushup
