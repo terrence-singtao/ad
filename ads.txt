@@ -2038,6 +2038,43 @@ flashb.id, 76e0cd4c-c5f5-57cf-b595-eed03a0ad0b2, DIRECT
 vidcrunch.com, 6208f2ba91d7952e2c766876, DIRECT
 xandr.com, 16546, RESELLER
 appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+smartadserver.com, 2843-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 2843, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 2843, RESELLER, 060d053dcf45cbf3
+themediagrid.com, P19GFJ, RESELLER, 9fac4a4a87c2a44f
+loopme.com, 20222, RESELLER, 6c8d5f95897a5a3b
+nativo.com, 6072, RESELLER, 59521ca7cc5e9fee
+freewheel.tv, 536095-r-524565, RESELLER
+freewheel.tv, 536095-r-523319, RESELLER
+sharethrough.com, 4537, RESELLER, 060d053dcf45cbf3
+missena.com, SID-349757, DIRECT
+themediagrid.com, IPB3NX, DIRECT, 35d5010d7789b49d
+smartadserver.com, 3927, DIRECT, 060d053dcf45cbf3
+rubiconproject.com, 24546, RESELLER, 0bfd66d529a55807
+appnexus.com, 14655, RESELLER, f5ab79cb980f11d1
+richaudience.com, UkO03TguJm, DIRECT
+richaudience.com, pu8ICmUqYn, DIRECT
+richaudience.com, quxufDBTNs, RESELLER
+adpone.com, 61be5eee3dd8b0e54861, DIRECT
+pubmatic.com, 158120, RESELLER, 5d62403b186f2ace
+smartadserver.com, 2289, RESELLER
+smartadserver.com, 2597, RESELLER
+indexexchange.com, 190906, RESELLER, 50b1c356f2c5c8fc
+improvedigital.com, 2157, RESELLER
+pubmatic.com, 162770, RESELLER, 5d62403b186f2ace
+smilewanted.com, 3924, RESELLER
+lijit.com, 346012, DIRECT, fafdf38b16bf6b2b
+smaato.com,1100055901, RESELLER, 07bcf65f187117b4
+spotxchange.com, 230037, RESELLER, 7842df1d2fe2db34
+spotx.tv, 230037, RESELLER, 7842df1d2fe2db34
+tremorhub.com, ewut4-b6zwq, RESELLER, 1a4e959a1b50034a
+richaudience.com, HLWr9WfM73, RESELLER
+contextweb.com, 562965, RESELLER, 89ff185a4c4e857c
+amxrtb.com, 105199731, RESELLER
+rubiconproject.com, 24548, RESELLER, 0bfd66d529a55807
+triplelift.com, 14830, RESELLER, 6c33edb13117fd86
+amxrtb.com, 105199912, RESELLER
+flashb.id, 22c92d88-2ba1-5305-864f-2775fe33acad, DIRECT
 
 # optad360.com
 optad360.com,5866951,DIRECT
@@ -2219,7 +2256,6 @@ pubmatic.com, 156084, RESELLER, 5d62403b186f2ace #video
 freewheel.tv,770449,DIRECT
 freewheel.tv,774673,RESELLER
 freewheel.tv,893873,RESELLER
-smaato.com, 1100055901, RESELLER, 07bcf65f187117b4
 smaato.com, 1100051327, RESELLER, 07bcf65f187117b4
 advangelists.com,9766527f2b5d3e95d4a733fcfb77bd7e,RESELLER,60d26397ec060f98
 inmobi.com, 55049d2e109d4ac1820ca1432dda4e13, RESELLER, 83e75a7ae333ca9d
