@@ -2054,6 +2054,7 @@ rubiconproject.com, 24548, RESELLER, 0bfd66d529a55807
 triplelift.com, 14830, RESELLER, 6c33edb13117fd86
 amxrtb.com, 105199912, RESELLER, 3adbe8d09f15cf6c
 flashb.id, 22c92d88-2ba1-5305-864f-2775fe33acad, DIRECT
+rtbhouse.com, axo5tPYccOTiWjO6etN9, DIRECT, 4f3b94578e85950c
 
 # optad360.com
 optad360.com,5866951,DIRECT
